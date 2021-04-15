@@ -1,4 +1,4 @@
-# repo2
+# repo2 Actaulizada
 …or create a new repository on the command line
 
 echo "# repo2" >> README.md
